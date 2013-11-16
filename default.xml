@@ -25,7 +25,7 @@
 
 	<!-- build -->
 
-	<project path="build" name="CyanogenMod/android_build">
+	<project path="build" name="replicant/build" remote="gitorious" revision="replicant-4.2">
 		<copyfile src="core/root.mk" dest="Makefile" />
 	</project>
 
@@ -118,7 +118,7 @@
 
 	<!-- vendor -->
 
-	<project path="vendor/cm" name="CyanogenMod/android_vendor_cm" />
+	<project path="vendor/replicant" name="replicant/vendor_replicant" remote="gitorious" revision="replicant-4.2" />
 	<project path="vendor/qcom/opensource/v8" name="CyanogenMod/android_vendor_qcom_opensource_v8" />
 	<project path="vendor/tmobile/apps/ThemeChooser" name="CyanogenMod/themes-platform-vendor-tmobile-apps-ThemeChooser" />
 	<project path="vendor/tmobile/libs/com.tmobile.themes" name="CyanogenMod/android_vendor_tmobile_libs_com.tmobile.themes" />
