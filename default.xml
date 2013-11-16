@@ -362,7 +362,7 @@
 	<project path="packages/apps/Apollo" name="CyanogenMod/android_packages_apps_Apollo" />
 	<project path="packages/apps/BasicSmsReceiver" name="CyanogenMod/android_packages_apps_BasicSmsReceiver" />
 	<project path="packages/apps/Bluetooth" name="CyanogenMod/android_packages_apps_Bluetooth" />
-	<project path="packages/apps/Browser" name="CyanogenMod/android_packages_apps_Browser" />
+	<project path="packages/apps/Browser" name="replicant/packages_apps_browser" remote="gitorious" revision="replicant-4.2" />
 	<project path="packages/apps/Calculator" name="CyanogenMod/android_packages_apps_Calculator" />
 	<project path="packages/apps/Calendar" name="CyanogenMod/android_packages_apps_Calendar" />
 	<project path="packages/apps/Camera" name="CyanogenMod/android_packages_apps_Camera" />
@@ -390,7 +390,8 @@
 	<project path="packages/apps/Protips" name="CyanogenMod/android_packages_apps_Protips" />
 	<project path="packages/apps/Provision" name="CyanogenMod/android_packages_apps_Provision" />
 	<project path="packages/apps/QuickSearchBox" name="CyanogenMod/android_packages_apps_QuickSearchBox" />
-	<project path="packages/apps/Settings" name="CyanogenMod/android_packages_apps_Settings" />
+	<project path="packages/apps/ReplicantWallpapers" name="replicant/packages_apps_replicantwallpapers" remote="gitorious" revision="replicant-4.2" />
+	<project path="packages/apps/Settings" name="replicant/packages_apps_settings" remote="gitorious" revision="replicant-4.2" />
 	<project path="packages/apps/SmartCardService" name="CyanogenMod/android_packages_apps_SmartCardService" />
 	<project path="packages/apps/SoundRecorder" name="CyanogenMod/android_packages_apps_SoundRecorder" />
 	<project path="packages/apps/SpareParts" name="CyanogenMod/android_packages_apps_SpareParts" />
