@@ -92,7 +92,7 @@
 	<!-- frameworks -->
 
 	<project path="frameworks/av" name="CyanogenMod/android_frameworks_av" />
-	<project path="frameworks/base" name="CyanogenMod/android_frameworks_base" />
+	<project path="frameworks/base" name="replicant/frameworks_base" remote="gitorious" revision="replicant-4.2" />
 	<project path="frameworks/compile/libbcc" name="CyanogenMod/android_frameworks_compile_libbcc" />
 	<project path="frameworks/compile/linkloader" name="CyanogenMod/android_frameworks_compile_linkloader" />
 	<project path="frameworks/compile/llvm-ndk-cc" name="CyanogenMod/android_frameworks_compile_llvm-ndk-cc" />
@@ -101,7 +101,7 @@
 	<project path="frameworks/ex" name="CyanogenMod/android_frameworks_ex" />
 	<project path="frameworks/mff" name="CyanogenMod/android_frameworks_mff" />
 	<project path="frameworks/ml" name="CyanogenMod/android_frameworks_ml" />
-	<project path="frameworks/native" name="CyanogenMod/android_frameworks_native" />
+	<project path="frameworks/native" name="replicant/frameworks_native" remote="gitorious" revision="replicant-4.2" />
 	<project path="frameworks/opt/calendar" name="CyanogenMod/android_frameworks_opt_calendar" />
 	<project path="frameworks/opt/carddav" name="CyanogenMod/android_frameworks_opt_carddav" />
 	<project path="frameworks/opt/emoji" name="CyanogenMod/android_frameworks_opt_emoji" />
