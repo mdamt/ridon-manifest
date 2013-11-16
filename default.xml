@@ -163,7 +163,7 @@
 
 	<!-- device -->
 
-	<project path="device/common" name="CyanogenMod/android_device_common" />
+	<project path="device/common" name="replicant/device_common" remote="gitorious" revision="replicant-4.2" />
 	<project path="device/generic/armv7-a-neon" name="CyanogenMod/android_device_generic_armv7-a-neon" />
 	<project path="device/generic/armv7-a" name="CyanogenMod/android_device_generic_armv7-a" />
 	<project path="device/generic/common" name="CyanogenMod/android_device_generic_common" />
