@@ -272,6 +272,7 @@
 	<project path="external/libphonenumber" name="CyanogenMod/android_external_libphonenumber" />
 	<project path="external/libpng" name="CyanogenMod/android_external_libpng" />
 	<project path="external/libppp" name="CyanogenMod/android_external_libppp" />
+	<project path="external/libsamsung-ipc" name="replicant/external_libsamsung-ipc" remote="gitorious" revision="master" />
 	<project path="external/libselinux" name="CyanogenMod/android_external_libselinux" />
 	<project path="external/libsepol" name="CyanogenMod/android_external_libsepol" />
 	<project path="external/libusb" name="CyanogenMod/android_external_libusb" />
