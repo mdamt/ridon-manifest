@@ -180,6 +180,7 @@
 	<project path="device/sample" name="CyanogenMod/android_device_sample" groups="device" />
 	<project path="device/samsung/aries-common" name="replicant/device_samsung_aries-common" remote="gitorious" revision="replicant-4.2" groups="device" />
 	<project path="device/samsung/crespo" name="replicant/device_samsung_crespo" remote="gitorious" revision="replicant-4.2" groups="device" />
+	<project path="device/samsung/galaxysmtd" name="replicant/device_samsung_galaxysmtd" remote="gitorious" revision="replicant-4.2" groups="device" />
 	<project path="device/ti/panda" name="CyanogenMod/android_device_ti_panda" groups="device" />
 
 	<!-- external -->
