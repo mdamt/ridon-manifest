@@ -185,6 +185,7 @@
 	<project path="device/samsung/galaxys2-common" name="replicant/device_samsung_galaxys2-common" remote="gitorious" revision="replicant-4.2" groups="device" />
 	<project path="device/samsung/galaxysmtd" name="replicant/device_samsung_galaxysmtd" remote="gitorious" revision="replicant-4.2" groups="device" />
 	<project path="device/samsung/i9100" name="replicant/device_samsung_i9100" remote="gitorious" revision="replicant-4.2" groups="device" />
+	<project path="device/samsung/n7000" name="replicant/device_samsung_n7000" remote="gitorious" revision="replicant-4.2" groups="device" />
 	<project path="device/ti/panda" name="CyanogenMod/android_device_ti_panda" groups="device" />
 
 	<!-- external -->
