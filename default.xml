@@ -190,6 +190,8 @@
 	<project path="device/samsung/maguro" name="replicant/device_samsung_maguro" remote="gitorious" revision="replicant-4.2" groups="device" />
 	<project path="device/samsung/n7000" name="replicant/device_samsung_n7000" remote="gitorious" revision="replicant-4.2" groups="device" />
 	<project path="device/samsung/omap4-common" name="replicant/device_samsung_omap4-common" remote="gitorious" revision="replicant-4.2" groups="device" />
+	<project path="device/samsung/p3100" name="replicant/device_samsung_p3100" remote="gitorious" revision="replicant-4.2" groups="device" />
+	<project path="device/samsung/p3110" name="replicant/device_samsung_p3110" remote="gitorious" revision="replicant-4.2" groups="device" />
 	<project path="device/samsung/p5100" name="replicant/device_samsung_p5100" remote="gitorious" revision="replicant-4.2" groups="device" />
 	<project path="device/samsung/p5110" name="replicant/device_samsung_p5110" remote="gitorious" revision="replicant-4.2" groups="device" />
 	<project path="device/samsung/tuna" name="replicant/device_samsung_tuna" remote="gitorious" revision="replicant-4.2" groups="device" />
