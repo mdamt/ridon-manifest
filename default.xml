@@ -168,6 +168,7 @@
 	<project path="kernel/samsung/crespo" name="replicant/kernel_samsung_crespo" remote="gitorious" revision="replicant-4.2" groups="device" />
 	<project path="kernel/samsung/smdk4412" name="replicant/kernel_samsung_smdk4412" remote="gitorious" revision="replicant-4.2" groups="device" />
 	<project path="kernel/samsung/tuna" name="replicant/kernel_samsung_tuna" remote="gitorious" revision="replicant-4.2" groups="device" />
+	<project path="kernel/samsung/espresso10" name="replicant/kernel_samsung_espresso10" remote="gitorious" revision="replicant-4.2" groups="device" />
 
 	<!-- device -->
 
