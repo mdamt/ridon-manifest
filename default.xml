@@ -182,6 +182,7 @@
 	<project path="device/generic/goldfish" name="CyanogenMod/android_device_generic_goldfish" />
 	<project path="device/generic/mips" name="CyanogenMod/android_device_generic_mips" />
 	<project path="device/generic/x86" name="CyanogenMod/android_device_generic_x86" />
+	<project path="device/goldelico/gta04" name="replicant/device_goldelico_gta04" remote="gitorious" revision="replicant-4.2" groups="device" />
 	<project path="device/google/accessory/arduino" name="CyanogenMod/android_device_google_accessory_arduino" groups="device" />
 	<project path="device/google/accessory/demokit" name="CyanogenMod/android_device_google_accessory_demokit" groups="device" />
 	<project path="device/sample" name="CyanogenMod/android_device_sample" groups="device" />
