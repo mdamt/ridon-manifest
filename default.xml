@@ -166,6 +166,7 @@
 
 	<!-- kernel -->
 
+	<project path="kernel/goldelico/gta04" name="replicant/kernel_goldelico_gta04" remote="gitorious" revision="replicant-4.2" groups="device" />
 	<project path="kernel/samsung/aries" name="replicant/kernel_samsung_aries" remote="gitorious" revision="replicant-4.2" groups="device" />
 	<project path="kernel/samsung/crespo" name="replicant/kernel_samsung_crespo" remote="gitorious" revision="replicant-4.2" groups="device" />
 	<project path="kernel/samsung/smdk4412" name="replicant/kernel_samsung_smdk4412" remote="gitorious" revision="replicant-4.2" groups="device" />
