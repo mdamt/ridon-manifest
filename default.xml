@@ -414,7 +414,7 @@
 	<project path="packages/apps/Mms" name="CyanogenMod/android_packages_apps_Mms" />
 	<project path="packages/apps/Music" name="CyanogenMod/android_packages_apps_Music" />
 	<project path="packages/apps/MusicFX" name="CyanogenMod/android_packages_apps_MusicFX" />
-	<project path="packages/apps/Nfc" name="CyanogenMod/android_packages_apps_Nfc" />
+	<project path="packages/apps/Nfc" name="replicant/packages_apps_nfc" remote="gitorious" revision="replicant-4.2" />
 	<project path="packages/apps/PackageInstaller" name="CyanogenMod/android_packages_apps_PackageInstaller" />
 	<project path="packages/apps/Phone" name="CyanogenMod/android_packages_apps_Phone" />
 	<project path="packages/apps/Protips" name="CyanogenMod/android_packages_apps_Protips" />
