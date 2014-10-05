@@ -217,7 +217,7 @@
 	<project path="external/apache-xml" name="CyanogenMod/android_external_apache-xml" />
 	<project path="external/arduino" name="CyanogenMod/android_external_arduino" />
 	<project path="external/astl" name="CyanogenMod/android_external_astl" />
-	<project path="external/bash" name="CyanogenMod/android_external_bash" />
+	<project path="external/bash" name="replicant/external_bash" remote="gitorious" revision="replicant-4.2" />
 	<project path="external/bison" name="CyanogenMod/android_external_bison" />
 	<project path="external/blktrace" name="CyanogenMod/android_external_blktrace" />
 	<project path="external/bluetooth/bluedroid" name="replicant/external_bluetooth_bluedroid" remote="gitorious" revision="replicant-4.2" />
