@@ -375,7 +375,7 @@
 	<project path="external/v8" name="CyanogenMod/android_external_v8" />
 	<project path="external/valgrind" name="CyanogenMod/android_external_valgrind" />
 	<project path="external/vim" name="CyanogenMod/android_external_vim" />
-	<project path="external/webkit" name="CyanogenMod/android_external_webkit" />
+	<project path="external/webkit" name="replicant/external_webkit" remote="gitorious" revision="replicant-4.2" />
 	<project path="external/webp" name="CyanogenMod/android_external_webp" />
 	<project path="external/webrtc" name="CyanogenMod/android_external_webrtc" />
 	<project path="external/wpa_supplicant_6" name="CyanogenMod/android_external_wpa_supplicant_6" />
