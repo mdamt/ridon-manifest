@@ -25,7 +25,7 @@
 
 	<!-- build -->
 
-	<project path="build" name="replicant/build" remote="gitorious" revision="replicant-4.2">
+	<project path="build" name="mdamt/ridon-build" remote="github" revision="ridon-4.2">
 		<copyfile src="core/root.mk" dest="Makefile" />
 	</project>
 
